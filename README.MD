@@ -17,6 +17,7 @@ Hello World I' am a self taught programmer situated on an Island in Malaysia whe
 I have provided an image of an already on hand "To-Do list" that I would like to imitate **below** part of this file. I figured why not try to imitate something that already exist on hand through ***learn by imitation***.  
 
 <!--- Put Image here--->
+![](Images/Sample.JPG)
 
 
 
@@ -43,6 +44,10 @@ Ultimately there are three parts I would like this program to do for now. More c
 <!--- Technology --->
 ## Technology
 <!--- list down---->
+1. HTML
+2. CSS
+3. Javascript
+4. Node JS
 
 
 ---
