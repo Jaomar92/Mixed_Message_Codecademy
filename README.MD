@@ -2,6 +2,11 @@
 <!--Table of contents--->
 ## Table of contents
 <!--- list down---->
+1. About The Project
+    1. About Me
+    2. Project
+2. Technology
+3. Example Objective
 
 
 
@@ -16,10 +21,13 @@ Hello World I' am a self taught programmer situated on an Island in Malaysia whe
 ### Project
 I have provided an image of an already on hand "To-Do list" that I would like to imitate **below** part of this file. I figured why not try to imitate something that already exist on hand through ***learn by imitation***.  
 
+---
 <!--- Put Image here--->
 ![](Images/Sample.JPG)
 
+***Sample document to replicate.***
 
+---
 
 Ultimately there are three parts I would like this program to do for now. More complexity would be added added later down the line.
 
